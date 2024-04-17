@@ -10,7 +10,7 @@ function Nav() {
           } else {
             card.style.display = 'none'; 
           }
-        });9
+        });
       };
 
 
